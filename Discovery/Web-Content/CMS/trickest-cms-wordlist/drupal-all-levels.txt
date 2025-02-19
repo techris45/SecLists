@@ -8021,6 +8021,13 @@ tests/src/Functional/NodeTitleTest.php
 src/Functional/NodeTitleTest.php
 Functional/NodeTitleTest.php
 NodeTitleTest.php
+core/themes/claro/tests/src/Functional/MenuLinkDefaultFormTest.php
+themes/claro/tests/src/Functional/MenuLinkDefaultFormTest.php
+claro/tests/src/Functional/MenuLinkDefaultFormTest.php
+tests/src/Functional/MenuLinkDefaultFormTest.php
+src/Functional/MenuLinkDefaultFormTest.php
+Functional/MenuLinkDefaultFormTest.php
+MenuLinkDefaultFormTest.php
 core/themes/claro/images/classy/README.txt
 themes/claro/images/classy/README.txt
 claro/images/classy/README.txt
